@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: docs/variabler
+- file: docs/print
+- file: docs/funksjoner
+- file: docs/for
+- file: docs/while
+- file: docs/eksamen
+- file: docs/installere
